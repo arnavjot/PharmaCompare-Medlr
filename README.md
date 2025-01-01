@@ -83,33 +83,37 @@ PharmaCompare is a web application designed to help users search for medicines, 
 
 ## Screenshots
 ### Home Page
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/1378cf6c-6fb5-40d0-b72e-cd42ea4b8bb2" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/07240335-a535-447b-902d-3aeb188a9cce" />
 
 
 ### Search Results Page
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/25b434c6-34fd-41a2-b800-c9846d7dfbf7" />
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/8dc9df58-ac23-423e-bd94-49e4186a6a05" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/2e5b75a1-3f6f-49c0-89d4-16b3ce9c5f0a" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/26bb343c-90e1-4221-a378-6292682051f4" /> 
+
+**Sort By Price : High to Low**
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/a0b14f26-66b2-49bc-85aa-dcde9aea31e5" />
+
 
 
 ### Medicine Details Page
 **For unauthenticated users**
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/68d0569a-8721-4b7b-a1c4-7d88d0b5eed6" />
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/37bb2996-8f86-4286-a51f-efc9cbfa1371" />
+
 **For authenticated users**
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/2e1cf33f-5b3b-49f4-8c23-ffa114d0bb02" />
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/e6b40011-b24e-486b-be77-772e22cb6fcb" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/3d62a85f-59de-4df1-aa35-ff5f9ee0f0f2" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/6a9e99b4-e1d4-4735-876e-b2eccf93b268" />
 
 
-
-### Sign Up Page
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/2a184c8e-28b9-43f8-b708-31e67a781ab9" />
+### Signup Page
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/3d321597-201c-4c59-bdda-665a84e34660" />
 
 
 ### Login Page
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/c1649398-735f-41b8-8a34-0bca7504a44b" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/127a429f-3e13-47e3-8a19-8830f1f5477b" />
 
 
 ### Profile Page
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/9a175ea5-7d40-4d28-bea1-438dd2f90305" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/dcf745c0-96d4-4ae8-b196-e8c130d400ad" />
 
 
 ---
